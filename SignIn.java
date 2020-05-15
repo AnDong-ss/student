@@ -1,3 +1,3 @@
 public class SignIn{
-	private int id;//添加注释
+	private int id;//修改注释
 }
